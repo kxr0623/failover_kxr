@@ -1,0 +1,6 @@
+enable
+terminal pager 0
+[loop]
+show local-host <ip_address>
+clear local-host <ip_address>
+show local-host <ip_address>

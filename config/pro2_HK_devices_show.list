@@ -1,0 +1,4 @@
+UPI_HKQWSW01247	184.36.10.247	/appset/script/failover/config/command/Dev_247_248_show_cmd.cisco
+UPI_HKQWSW01248	184.36.10.248	/appset/script/failover/config/command/Dev_247_248_show_cmd.cisco
+UPI_HKQWSW01231	184.36.10.231	/appset/script/failover/config/command/Dev_231_232_show_cmd.cisco
+UPI_HKQWSW01232	184.36.10.232	/appset/script/failover/config/command/Dev_231_232_show_cmd.cisco

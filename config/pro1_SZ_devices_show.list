@@ -1,0 +1,4 @@
+UPI_CNSZSW01247	184.32.10.247	/appset/script/failover/config/command/Dev_247_248_show_cmd.cisco
+UPI_CNSZSW01248	184.32.10.248	/appset/script/failover/config/command/Dev_247_248_show_cmd.cisco
+UPI_CNSZSW01231	184.32.10.231	/appset/script/failover/config/command/Dev_231_232_show_cmd.cisco
+UPI_CNSZSW01232	184.32.10.232	/appset/script/failover/config/command/Dev_231_232_show_cmd.cisco

@@ -1,0 +1,2 @@
+aaaaaaaabbbbb[0;whwhwhwhwhwhwh color[0m
+[0;whwhwhwhwhwhwh color[0m[0;31m[Error] Detail:[0m

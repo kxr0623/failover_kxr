@@ -1,0 +1,4 @@
+enable
+terminal pager 0
+show cpu usage
+show memory

@@ -1,0 +1,9 @@
+do show ip route 145.216.65.176 | in *
+do show ip route 144.216.0.1 | in *
+do show ip route 144.217.0.1 | in *
+do show ip route 144.218.0.1 | in *
+do show ip route 144.219.0.1 | in *
+do show ip route 145.216.65.176 | in *
+do show ip route 184.0.0.1 | in *
+do show ip route 184.16.0.1 | in *
+do show ip route 203.184.80.1 | in *

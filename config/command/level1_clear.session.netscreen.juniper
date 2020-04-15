@@ -1,0 +1,5 @@
+set cli screen-length 0
+[loop]
+get session src-ip <ip_address>
+clear session src-ip <ip_address>
+get session src-ip <ip_address>

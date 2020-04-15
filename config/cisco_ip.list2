@@ -1,0 +1,4 @@
+HKSW01532 185.36.10.232  /appset/script/failover/test_code/config/HKSW01532_command.cisco
+HKSW01531 185.36.10.231  /appset/script/failover/test_code/config/HKSW01531_command.cisco
+SZSW01531 185.32.10.231  /appset/script/failover/test_code/config/SZSW01531_command.cisco
+SZSW01532 185.32.10.232  /appset/script/failover/test_code/config/SZSW01532_command.cisco
